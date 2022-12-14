@@ -1,9 +1,10 @@
 ## About me
 👋 Hi, I'm Gwendal, and I'm a Freelance Fullstack Developer. 
 <br>
-I have just completed a fullstack web development course at Le Wagon. 
-<br> 
-I have an academic background in science, IT and management, as well as 4 years of experience in the event industry.
+After having completed the web development course of Le Wagon, I am now looking for a role as a Fullstack or Back End Developer. 
+<br>
+I have an academic background in
+science, IT and management, as well as 4 years of experience in the event industry.
 ## Skills
 <table>
   <body>
