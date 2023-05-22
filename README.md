@@ -3,8 +3,9 @@
 <br>
 After having completed the web development course of Le Wagon, I am now looking for a role as a Fullstack or Back End Developer. 
 <br>
-I have an academic background in
-science, IT and management, as well as 4 years of experience in the event industry.
+I have an academic background in science, IT and management, as well as 4 years of experience in the event industry.
+<br>
+I am also Lecturer and Teacher Assistant for Le Wagon since January 2023.
 ## Skills
 <table>
   <body>
