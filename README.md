@@ -44,7 +44,7 @@ Feel free to contact me to speak about your projects !
 </table>
 
 ## Currently learning
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vue3-fr.netlify.app/logo.png" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
 <!---
