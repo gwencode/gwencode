@@ -46,9 +46,8 @@ Feel free to contact me to speak about your projects !
         <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" alt="heroku" width="40" height="40"/></a>
       </td>
       <td height="100px" align="center">
-       <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://rspec.info/images/logo.png" alt="rspec" width="40" height="40"/></a>
-        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="40"/></a>
-        <a href="https://fr.legacy.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="50" height="40"/></a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://vue3-fr.netlify.app/logo.png" alt="vuejs" width="40" height="40"/></a>
+        <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://rspec.info/images/logo.png" alt="rspec" width="40" height="40"/></a>
       </td>
     </tr>
   </body>
@@ -56,6 +55,7 @@ Feel free to contact me to speak about your projects !
 
 ## Currently learning
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://vue3-fr.netlify.app/logo.png" alt="vuejs" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a> 
+  <a href="https://fr.legacy.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="50" height="40"/></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="40"/></a>
 </p>
