@@ -1,13 +1,7 @@
 ## About me
-👋 Hi, I'm Gwendal, and I'm a Freelance Fullstack Developer. 
+👋 Hi, I'm Gwendal, and I'm a Fullstack Developer. 
 <br>
-After having completed the web development course of Le Wagon in December 2022, I have done 2 websites on my own and the back-end for another one. I am also Lecturer and Teacher Assistant for Le Wagon since January 2023.
-<br>
-I am available to work on web projects, as a Fullstack, Back-end or Front-end developer. 
-<br>
-I have also an academic background in science, IT and management (EDHEC Business School), as well as 4 years of experience in the event industry.
-<br>
-Feel free to contact me to speak about your projects ! 
+After an initial 5-year career in the events industry, I took part in the Wagon web development bootcamp as a springboard for a new career. I've now joined Avena Event as a Fullstack developer. I've also been a teacher for Le Wagon since January 2023. 
 ## Skills
 <table align="center">
   <body>
