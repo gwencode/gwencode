@@ -27,7 +27,7 @@ After an initial 5-year career in the events industry, I took part in the Wagon 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
         <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" alt="react" width="61" height="40"/></a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="react-native" width="61" height="40"/></a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="48" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
       </td>
     <tr>
