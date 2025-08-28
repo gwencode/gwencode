@@ -1,7 +1,7 @@
 ## About me
 👋 Hi, I'm Gwendal, and I'm a Fullstack Developer. 
 <br>
-After an initial 5-year career in the events industry, I took part in the Wagon web development bootcamp as a springboard for a new career. I have now joined Avena Event as a Fullstack Developer (mobile and web). I have also been a teacher for Le Wagon since January 2023 for Web Development bootcamps.
+After an initial 5-year career in the events industry, I took part in the Wagon web development bootcamp as a springboard for a new career. I have now joined Avena Event as a Fullstack Developer (mobile and web). I am available as a freelancer approximately 1 or 2 days per week, alongside my 4/5th time contract.
 ## Skills
 <table align="center">
   <body>
